@@ -24,7 +24,8 @@
       <img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram" alt="Instagram">
     </a>
   </div>
-## My Skills
+
+<h3></h3> My Skills </h3>
 
 | Programming Languages      | Web Development               | Data Science and Visualization   | Cloud and Tools         | Project Management                      |
 |----------------------------|----------------------------   |----------------------------------|-------------------------|-------------------------                |
