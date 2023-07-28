@@ -25,11 +25,34 @@
     </a>
   </div>
 
-<h3 align="left">Languages and Tools:</h3>
+## My Skills
 
-<p>
-  Python, MySQL, HTML, CSS, JavaScript, Xampp, Flask, Node.js, REST API,
-  Numpy, Matplotlib, Pandas, Seaborn, TensorFlow,
-  AWS Athena, S3, Tableau, Ubuntu,
-  Jira, Confluence
-</p>
+### Programming Languages
+- :snake: Python
+- :file_cabinet: MySQL
+
+### Web Development
+- :globe_with_meridians: HTML
+- :art: CSS
+- :tumbler_glass: Xampp
+- :alembic: Flask
+- :nodejs: Node.js
+- :link: REST API
+
+### Data Science and Visualization
+- :snake: Numpy
+- :bar_chart: Matplotlib
+- :panda_face: Pandas
+- :bar_chart: Seaborn
+- :brain: TensorFlow
+
+### Cloud and Tools
+- :cloud: AWS Athena
+- :file_cabinet: S3
+- :bar_chart: Tableau
+- :penguin: Ubuntu
+
+### Project Management
+- :chart_with_upwards_trend: Jira
+- :blue_book: Confluence
+
