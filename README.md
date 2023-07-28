@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sashanka Mouli Mulugu</h1>
 <h3 align="center">Enthusiastic and determined individual seeking for job opportunities in Data Analyst, Software Development, Testing and AI/ML domains where my education and experience be fully utilized with the ability to grow and enhance my career.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<p align="left"> <img alt="sas" src="https://komarev.com/ghpvc/?username=sashak113&label=Profile%20views&color=0e75b6&style=flat" alt="sashak113" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sashak113&label=Profile%20views&color=0e75b6&style=flat" alt="sashak113" /> </p>
-
-<p align="left"> <a href="https://twitter.com/m_sashanka" target="blank"><img src="https://img.shields.io/twitter/follow/m_sashanka?logo=twitter&style=for-the-badge" alt="m_sashanka" /></a> </p>
 
 - 🔭 I’m currently working on [Coading Skills](https://colab.research.google.com/drive/1Y1dgyGAA7fMTbVsMYGxAN1OBnXTkuIRq#scrollTo=8X_qKCzw8-mj)
 
@@ -28,3 +27,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<p>
+  Python, MySQL, HTML, CSS, JavaScript, Xampp, Flask, Node.js, REST API,
+  Numpy, Matplotlib, Pandas, Seaborn, TensorFlow,
+  AWS Athena, S3, Tableau, Ubuntu,
+  Jira, Confluence
+</p>
