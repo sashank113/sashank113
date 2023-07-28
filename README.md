@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg" alt="Banner" width="auto" height="auto">
-</div>
+
 <h1 align="center">Hi 👋, I'm Sashanka Mouli Mulugu</h1>
 <h3 align="center">Enthusiastic and determined individual seeking for job opportunities in Data Analyst, Software Development, Testing and AI/ML domains where my education and experience be fully utilized with the ability to grow and enhance my career.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
