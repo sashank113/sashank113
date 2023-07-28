@@ -24,35 +24,13 @@
       <img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram" alt="Instagram">
     </a>
   </div>
-
 ## My Skills
 
-### Programming Languages
-- :snake: Python
-- :file_cabinet: MySQL
-
-### Web Development
-- :globe_with_meridians: HTML
-- :art: CSS
-- :tumbler_glass: Xampp
-- :alembic: Flask
-- :nodejs: Node.js
-- :link: REST API
-
-### Data Science and Visualization
-- :snake: Numpy
-- :bar_chart: Matplotlib
-- :panda_face: Pandas
-- :bar_chart: Seaborn
-- :brain: TensorFlow
-
-### Cloud and Tools
-- :cloud: AWS Athena
-- :file_cabinet: S3
-- :bar_chart: Tableau
-- :penguin: Ubuntu
-
-### Project Management
-- :chart_with_upwards_trend: Jira
-- :blue_book: Confluence
-
+| Programming Languages      | Web Development               | Data Science and Visualization   | Cloud and Tools         | Project Management                      |
+|----------------------------|----------------------------   |----------------------------------|-------------------------|-------------------------                |
+| :snake: Python             | :globe_with_meridians: HTML   | :snake: Numpy                    | :cloud: AWS Athena      | :chart_with_upwards_trend: Jira         |
+| :file_cabinet: MySQL       | :art: CSS                     | :bar_chart: Matplotlib           | :file_cabinet: S3       | :blue_book: Confluence                  |
+|                            | :tumbler_glass: Xampp         | :panda_face: Pandas              | :bar_chart: Tableau     |                                         |
+|                            | :alembic: Flask               | :bar_chart: Seaborn              | :penguin: Ubuntu        |                                         |
+|                            | :heavy_check_mark: Node.js    | :brain: TensorFlow               |                         |                                         |    
+|                            | :link: REST API               |                                  |                         |                                         |
