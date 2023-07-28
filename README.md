@@ -3,8 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Sashanka Mouli Mulugu</h1>
 <h3 align="center">Enthusiastic and determined individual seeking for job opportunities in Data Analyst, Software Development, Testing and AI/ML domains where my education and experience be fully utilized with the ability to grow and enhance my career.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15637256-coding%2Fattachments%2F7428659%3Fmode%3Dmedia&psig=AOvVaw1kemDyo7CsDJfNmRl7BfbE&ust=1690640286239000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDSvYPMsYADFQAAAAAdAAAAABAa"
-<p align="left"> <img src="https://in.pinterest.com/pin/quick-saves--1148417973706332104/" alt="sashak113" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <a href="https://twitter.com/m_sashanka" target="blank"><img src="https://img.shields.io/twitter/follow/m_sashanka?logo=twitter&style=for-the-badge" alt="m_sashanka" /></a> </p>
 
