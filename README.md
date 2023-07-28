@@ -1,40 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Profile</title>
-  <style>
-    body {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-      margin: 0;
-      padding: 20px; /* Add padding to the body */
-    }
 
-    .profile-image {
-      max-width: 400px; /* Limit the maximum width of the image */
-      width: 100%;
-      height: auto; /* Maintain aspect ratio */
-    }
-
-    .profile-info {
-      max-width: 800px; /* Limit the maximum width of the info section */
-      text-align: center;
-      padding: 20px; /* Add padding to the info section */
-    }
-
-    .social-icons {
-      display: flex;
-      justify-content: center; /* Center the social icons horizontally */
-      gap: 20px;
-      margin-top: 20px; /* Add margin at the top of the social icons */
-    }
-  </style>
-</head>
 <body>
   <img class="profile-image" alt="Coding" src="https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg">
 
