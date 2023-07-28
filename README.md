@@ -1,4 +1,4 @@
-[![MasterHead](https://www.vectorstock.com/royalty-free-vector/horizontal-banner-with-hands-typing-on-laptop-vector-21833652)]
+[![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg)]
 
 
 <h1 align="center">Hi 👋, I'm Sashanka Mouli Mulugu</h1>
@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/m_sashanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_sashanka" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sashankmulugu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sashankmulugu" height="30" width="40" /></a>
-<a href="https://instagram.com/i_am__sashank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am__sashank" height="30" width="40" /></a>
+<a href="https://twitter.com/m_sashanka" target="blank"></a>
+<a href="https://linkedin.com/in/sashankmulugu" target="blank"></a>
+<a href="https://instagram.com/i_am__sashank" target="blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
