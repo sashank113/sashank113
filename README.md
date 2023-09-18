@@ -5,7 +5,7 @@
 <p align="left"> <img alt="sas" src="https://komarev.com/ghpvc/?username=sashak113&label=Profile%20views&color=0e75b6&style=flat" alt="sashak113" /> </p>
 
 
-- 🔭 I’m currently working on [Coading Skills](https://colab.research.google.com/drive/1Y1dgyGAA7fMTbVsMYGxAN1OBnXTkuIRq#scrollTo=8X_qKCzw8-mj)
+- 🔭 I’m currently working on [Coading Skills](https://colab.research.google.com/drive/1-hW5Bgt55aaAxEYtazgOcspe4nF9YgUq#scrollTo=i4E4d_jOxAlj)
 
 - 💬 Ask me about **Data Analytics, Data Science, Software Development**
 
