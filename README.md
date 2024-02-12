@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Sashanka Mouli Mulugu</h1>
-<h3 align="center">Enthusiastic and determined individual seeking opportunities in Data Analytics, Data Science, Software Development and Testing domains where my education and experience be fully utilized with the ability to grow and enhance my career.</h3>
+<h3 align="center">Enthusiastic and determined individual seeking opportunities in Data Science, Data Analytics, Software Development, and Testing domains where my education and experience be fully utilized with the ability to grow and enhance my career.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 <p align="left"> <img alt="sas" src="https://komarev.com/ghpvc/?username=sashak113&label=Profile%20views&color=0e75b6&style=flat" alt="sashak113" /> </p>
 
 
-- 🔭 I’m currently working on [Coading Skills](https://colab.research.google.com/drive/1-hW5Bgt55aaAxEYtazgOcspe4nF9YgUq#scrollTo=i4E4d_jOxAlj)
+- 🔭 I’m currently doing my Master's in Data Science at Suny Buffalo.
 
 - 💬 Ask me about **Data Analytics, Data Science, Software Development**
 
