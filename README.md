@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sashanka Mouli Mulugu</h1>
-<h3 align="center">Data Engineer | Data Scientist | AI & ML Enthusiast</h3>
+<h3 align="center">Data Engineer | Data Scientist | AI/ML & LLM Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left">
@@ -9,16 +9,16 @@
 ---
 
 - 🎓 Master’s in **Data Science** @ University at Buffalo (GPA: 3.73/4.0)  
-- 💼 Former **Data Engineering Intern @ XPERI** – built ETL pipelines, data models, and automated workflows  
-- 🛠 Training-ready in **Palantir Foundry** concepts (Ontology modeling, pipeline development)  
-- 🔭 Current focus: **ETL pipelines, Data Modeling, AI-driven solutions**  
-- 💬 Ask me about **SQL, PySpark, Python, AWS, Data Pipelines, and AI/ML projects**  
+- 💼 Former **Data Engineering Intern @ XPERI** – built ETL pipelines, automated workflows, and optimized query performance  
+- 🤖 Skilled in **LLM Development, RAG Systems, Multi-Agent AI, and Model Evaluation**  
+- 🔭 Current focus: **Data Engineering, Machine Learning, and Generative AI applications**  
+- 💬 Ask me about **SQL, PySpark, Python, AWS, ETL, and AI/ML projects**  
 - 📫 Reach me at **m.sashankamouli@gmail.com**  
-- ⚡ Fun fact: I can explain a complex data model faster than I can choose a Netflix show  
+- ⚡ Fun fact: I believe breakfast is acceptable at any time of day.  
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me</h3>
 <p align="left">
     <a href="https://twitter.com/m_sashanka" target="_blank">
       <img src="https://img.shields.io/twitter/follow/m_sashanka?logo=twitter&style=for-the-badge" alt="Twitter">
@@ -35,20 +35,20 @@
 
 <h3 align="left">🚀 Skills</h3>
 
-| **Programming Languages** | **Web Development**         | **Data Engineering / Science**       | **Cloud & Tools**         | **Project Management** |
-|---------------------------|-----------------------------|---------------------------------------|---------------------------|------------------------|
-| 🐍 Python, SQL, PySpark   | 🌐 HTML, CSS, JavaScript     | 🐼 Pandas, 🐍 NumPy, ETL, Data Modeling | ☁️ AWS (S3, Athena, Lambda) | 📈 Jira, Confluence     |
-| 🗄️ MySQL, PostgreSQL      | ⚗️ Flask, Node.js            | 📊 Matplotlib, Seaborn, Tableau, Power BI | 🐧 Ubuntu, Databricks      |                        |
-| 🖥️ C, C++, Java           | 🔗 REST APIs                 | 🧠 TensorFlow, PyTorch, ML/DL         | 📦 Docker, Apache Airflow  |                        |
+| **Programming Languages** | **Web Development**         | **Data Engineering / Science**       | **AI & LLMs**                           | **Cloud & Tools**        |
+|---------------------------|-----------------------------|---------------------------------------|------------------------------------------|--------------------------|
+| 🐍 Python, SQL, PySpark   | 🌐 HTML, CSS, JavaScript     | 🐼 Pandas, 🐍 NumPy, ETL, Data Modeling | 🤖 LLMs, RAG, LangChain, Vector DBs (FAISS) | ☁️ AWS (S3, Athena, Lambda) |
+| 🗄️ MySQL, PostgreSQL      | ⚗️ Flask, Node.js            | 📊 Matplotlib, Seaborn, Tableau, Power BI | 🧠 OpenAI API, Mistral, HuggingFace       | 🐧 Ubuntu, Databricks     |
+| 🖥️ C, C++, Java           | 🔗 REST APIs                 | 🧮 PySpark MLlib, Feature Engineering | 🧪 Prompt Engineering, LLM Evaluation    | 📦 Docker, Apache Airflow |
 
 ---
 
 <h3 align="left">📌 Featured Projects</h3>
 
 - **ETL Data Pipeline (AWS + Airflow)** – Reduced data retrieval from 2 days to 1 minute @ XPERI  
-- **Palantir Foundry-Ready Data Models** – Designed entity relationships & transformations for analytics  
 - **Pneumonia Classification CNN** – 83.4% accuracy using TensorFlow & Keras  
 - **RAG Q&A Pipeline** – FAISS + RoBERTa, 70% F1 score on realistic queries  
-- **Multi-Agent AI (CrewAI + Mistral-7B)** – Offline LLM system for domain-specific tasks  
+- **Multi-Agent AI System** – CrewAI + Mistral-7B, fully offline domain-specific reasoning  
+- **Airplane Delay Prediction** – 99% accuracy using PySpark MLlib  
 
 ---
